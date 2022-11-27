@@ -12,7 +12,6 @@ Resources
 
 Secrets of “printf ” by Professor Don Colton
 
-Get a copy here ->  https://d1wqtxts1xzle7.cloudfront.net/36373849/printf-libre.pdf?1422019130=&response-content-disposition=attachment%3B+filename%3DSecrets_of_printf.pdf&Expires=1669373748&Signature=J~Frhiik9ZxlHZ2VciwxgHz8xlPmvkPS4r0nidY6GzcrDxv2Dk751bIX12VVYfJVLBOn0fjNwp-78NflZdqNE05VmygQEuDNzYC0nTf9tdkDpsaAaHdvQEIBAVu0rHto6F-cGQ8ky~4Zq6tM5~kDIeScBfdFv~uFRtJPdxfElGB9pmIZFOuIayP6qyG1wTYeS2-504A0OajgGLvQHhzHtkAbUiHv30p1fgopD3O6OKjwdCl4nNlqqi9Lh2bbVvWli~cAXaG04oAbkDYCsBiQwy3egfxdvKyM~dw~P4K~e~g2thnxqNzYhBjXeEE7u3cuasxFglHI72mHPbs-Lm~jPg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 
 --------------------------------------------------------------------------------------------------------------------
 Authorized functions and macros
